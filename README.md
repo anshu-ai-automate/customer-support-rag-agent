@@ -23,4 +23,4 @@ An AI-powered customer support agent built for a fictional real estate company c
 5. Activate the workflow
 
 ## Note
-All credentials and file IDs have been removed from the workflow JSON. Add your own before running.
+All credentials and file IDs have been removed from the workflow JSON. Add your own before running..
